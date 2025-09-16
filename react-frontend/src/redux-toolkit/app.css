@@ -1,0 +1,23 @@
+.tab-buttons {
+  height: 40px;
+  top: 10px;
+  position: fixed;
+  right: 35%;
+  width: 30%;
+}
+.header {
+  height: 50px;
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+}
+p {
+  padding: 0px 10px;
+  font-size: 20px;
+  text-align: right;
+}
+input {
+  height: 20px;
+  padding: 8px;
+  font-size: 20px;
+}
